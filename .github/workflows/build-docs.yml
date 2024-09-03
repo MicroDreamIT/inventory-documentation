@@ -11,7 +11,7 @@ permissions:
 
 env:
   INSTANCE: Writerside/v2.0.0
-  ARTIFACT: xliffSrcV2.0.0.zip
+  ARTIFACT: webHelpV2.0.02-all.zip
   DOCKER_VERSION: 2.1.1479-p3869
 
 jobs:
