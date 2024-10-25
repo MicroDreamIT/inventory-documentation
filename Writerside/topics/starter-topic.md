@@ -1,10 +1,11 @@
-# About v2.0.0
+# Welcome Note
 
-<!--Writerside adds this topic when you create a new documentation project.
-You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.-->
+Welcome to XeroInput, the ultimate SaaS-based inventory management solution designed to streamline and simplify your 
+business operations. Whether you're managing purchases, sales, expenses, income, salaries, or employees, XeroInput has 
+you covered with a comprehensive suite of features tailored to meet your needs.
 
-## Add new topics
-You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
+## Key Features of XeroInput
+
 
 ![Create new topic options](new_topic_options.png){ width=290 }{border-effect=line}
 
