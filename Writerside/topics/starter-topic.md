@@ -6,75 +6,33 @@ you covered with a comprehensive suite of features tailored to meet your needs.
 
 ## Key Features of XeroInput
 
+XeroInput is a comprehensive business management tool that helps you streamline your processes and make data-driven decisions. From purchase and sales management to employee and payroll handling, XeroInput has everything you need to efficiently run your business.
 
-![Create new topic options](new_topic_options.png){ width=290 }{border-effect=line}
+## Key Features
 
-## Write content
-%product% supports two types of markup: Markdown and XML.
-When you create a new help article, you can choose between two topic types, but this doesn't mean you have to stick to a single format.
-You can author content in Markdown and extend it with semantic attributes or inject entire XML elements.
+### 1. Purchase Management
+Efficiently manage your procurement process with XeroInput's purchase management feature. Track orders, manage suppliers, and monitor your inventory levels to ensure you always have the right products on hand.
 
-## Inject XML
-For example, this is how you inject a procedure:
+### 2. Sales Management
+Streamline your sales process with easy-to-use tools for creating and tracking sales orders, invoices, and customer information. Keep your customers happy and your sales pipeline moving smoothly.
 
-<procedure title="Inject a procedure" id="inject-a-procedure">
-    <step>
-        <p>Start typing and select a procedure type from the completion suggestions:</p>
-        <img src="completion_procedure.png" alt="completion suggestions for procedure" border-effect="line"/>
-    </step>
-    <step>
-        <p>Press <shortcut>Tab</shortcut> or <shortcut>Enter</shortcut> to insert the markup.</p>
-    </step>
-</procedure>
+### 3. Expense Tracking
+Keep a close watch on your expenses with XeroInput. Categorize and monitor your business expenditures to maintain control over your finances and make informed decisions.
 
-## Add interactive elements
+### 4. Income Tracking
+Track your income streams effortlessly. XeroInput provides detailed insights into your revenue, helping you stay on top of your financial health and growth.
 
-### Tabs
-To add switchable content, you can make use of tabs (inject them by starting to type `tab` on a new line):
+### 5. Salary Management
+Manage employee salaries with ease. XeroInput simplifies payroll processing, ensuring accurate and timely payments to your staff while keeping comprehensive records for compliance.
 
-<tabs>
-    <tab title="Markdown">
-        <code-block lang="plain text">![Alt Text](new_topic_options.png){ width=450 }</code-block>
-    </tab>
-    <tab title="Semantic markup">
-        <code-block lang="xml">
-            <![CDATA[<img src="new_topic_options.png" alt="Alt text" width="450px"/>]]></code-block>
-    </tab>
-</tabs>
+### 6. Employee Management
+Keep all your employee information in one place. From personal details to job roles and performance, XeroInput helps you manage your team efficiently.
 
-### Collapsible blocks
-Apart from injecting entire XML elements, you can use attributes to configure the behavior of certain elements.
-For example, you can collapse a chapter that contains non-essential information:
+### 7. Reporting and Analytics
+Make data-driven decisions with XeroInput's powerful reporting and analytics tools. Generate detailed reports on various aspects of your business, from sales and expenses to employee performance, and gain valuable insights to drive your business forward.
 
-#### Supplementary info {collapsible="true"}
-Content under a collapsible header will be collapsed by default,
-but you can modify the behavior by adding the following attribute:
-`default-state="expanded"`
-
-### Convert selection to XML
-If you need to extend an element with more functions, you can convert selected content from Markdown to semantic markup.
-For example, if you want to merge cells in a table, it's much easier to convert it to XML than do this in Markdown.
-Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut>:
-
-<img src="convert_table_to_xml.png" alt="Convert table to XML" width="706" border-effect="line"/>
-
-## Feedback and support
-Please report any issues, usability improvements, or feature requests to our
-<a href="https://youtrack.jetbrains.com/newIssue?project=WRS">YouTrack project</a>
-(you will need to register).
-
-You are welcome to join our
-<a href="https://jb.gg/WRS_Slack">public Slack workspace</a>.
-Before you do, please read our [Code of conduct](https://plugins.jetbrains.com/plugin/20158-writerside/docs/writerside-code-of-conduct.html).
-We assume that you’ve read and acknowledged it before joining.
-
-You can also always email us at [writerside@jetbrains.com](mailto:writerside@jetbrains.com).
-
-<seealso>
-    <category ref="wrs">
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/markup-reference.html">Markup reference</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/manage-table-of-contents.html">Reorder topics in the TOC</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/local-build.html">Build and publish</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/configure-search.html">Configure Search</a>
-    </category>
-</seealso>
+We're thrilled to have you on board and look forward to helping you achieve your business goals with XeroInput. Should
+you have any questions or need assistance, our dedicated support team is always here to help.
+Thank you for choosing XeroInput!
+Warm regards,
+Shahanur Sharif
