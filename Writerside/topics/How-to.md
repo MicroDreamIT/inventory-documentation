@@ -75,7 +75,7 @@ sudo chmod -R 755 /var/www/html/xeroInput/bootstrap/cache
     php artisan key:generate
     ```
 2. Update database configuration in `.env`:
-    ```plaintext
+    ```
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
