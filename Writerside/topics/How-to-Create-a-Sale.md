@@ -4,8 +4,6 @@ Follow these steps to create a sale, ensuring all required details are set up fo
 
 > **Note:** Before creating a sale, ensure that the unit, bank, product category, brand, and customer information are set up in advance. This helps streamline the sales process.
 
----
-
 ## Prerequisites
 
 Complete these setup steps for efficient sales management:
@@ -15,8 +13,6 @@ Complete these setup steps for efficient sales management:
 - **Create Product Category**: Organize products into relevant categories.
 - **Create Brand**: Specify the product brand for accurate tracking.
 - **Create Customer**: Add customer details for tracking and managing sales.
-
----
 
 ## Step-by-Step Guide to Creating a Sale
 
@@ -38,7 +34,5 @@ Complete these setup steps for efficient sales management:
     - Print the sales receipt for records.
     - View the sale summary.
     - Submit to finalize and save the sale record.
-
----
 
 This organized guide to creating a sale helps you maintain accuracy and efficiency, enhancing the overall sales workflow within your inventory management system.

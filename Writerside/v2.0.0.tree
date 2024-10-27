@@ -11,6 +11,8 @@
     <toc-element topic="How-to-Initial-Setup.md"/>
     <toc-element topic="How-Create-Purchase.md"/>
     <toc-element topic="How-to-Create-a-Sale.md"/>
+    <toc-element topic="How-to-Create-Unit-and-Unit-Mapping.md"/>
+    <toc-element topic="How-to-create-Expense.md"/>
     <toc-element topic="License-Detail.md">
     </toc-element>
 </instance-profile>
