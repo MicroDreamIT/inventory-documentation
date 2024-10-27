@@ -3,16 +3,21 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="v2.0.0"
-                 name="v2.0.0"
+                 name="XeroInput"
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
     <toc-element topic="How-to.md"/>
     <toc-element topic="How-to-Initial-Setup.md"/>
-    <toc-element topic="How-Create-Purchase.md"/>
-    <toc-element topic="How-to-Create-a-Sale.md"/>
-    <toc-element topic="How-to-Create-Unit-and-Unit-Mapping.md"/>
-    <toc-element topic="How-to-create-Expense.md"/>
+    <toc-element topic="Inventory.md">
+        <toc-element topic="How-Create-Purchase.md"/>
+        <toc-element topic="How-to-Create-Unit-and-Unit-Mapping.md"/>
+        <toc-element topic="How-to-Create-a-Sale.md"/>
+        <toc-element topic="How-to-create-Expense.md"/>
+    </toc-element>
+    <toc-element topic="Payroll.md">
+        <toc-element topic="How-to-Create-Department.md"/>
+    </toc-element>
     <toc-element topic="License-Detail.md">
     </toc-element>
 </instance-profile>
