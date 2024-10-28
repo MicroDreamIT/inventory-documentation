@@ -1,4 +1,4 @@
-# Employee Management System Guide
+# Managing Departments
 
 ## Overview
 This guide covers how to navigate the Employee Management System, create new employee profiles, manage departments, and view salary information.
