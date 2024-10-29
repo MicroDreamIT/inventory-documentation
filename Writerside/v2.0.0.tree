@@ -16,6 +16,7 @@
         <toc-element topic="How-to-create-Expense.md"/>
     </toc-element>
     <toc-element topic="Payroll.md">
+        <toc-element topic="how-to-manage-salary.md"/>
         <toc-element topic="how-to-Manage-department.md"/>
         <toc-element topic="How-to-Manage-Employee.md"/>
     </toc-element>
